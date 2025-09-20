@@ -1,5 +1,6 @@
 
-# i have used here powerbi tool for visulization
+# i have used here powerbi tool for visulization/ and i have add pdf for this if anyone dont have power bi tool
+# but i make it clear this pdf is only for look up because actual work done is only by tool it self
 Task 2: Visualizing for Impact 
  The "Why": Raw data is messy. A good data analyst presents their findings in a clean, 
 easy-to-understand dashboard. This task is about communicating your insights effectively 
